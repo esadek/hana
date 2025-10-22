@@ -1,6 +1,7 @@
 # Hana
 
 [![Version](https://img.shields.io/crates/v/hana)](https://crates.io/crates/hana)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/esadek/hana/ci.yml)](https://github.com/esadek/hana/actions/workflows/ci.yml)
 [![Licenses](https://img.shields.io/crates/l/hana)](https://github.com/esadek/hana)
 
 ## License
