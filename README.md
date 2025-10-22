@@ -1,5 +1,8 @@
 # Hana
 
+[![Version](https://img.shields.io/crates/v/hana)](https://crates.io/crates/hana)
+[![Licenses](https://img.shields.io/crates/l/hana)](https://github.com/esadek/hana)
+
 ## License
 
 Licensed under either of
