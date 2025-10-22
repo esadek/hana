@@ -1,0 +1,9 @@
+[package]
+name = "hana"
+version = "0.1.0"
+edition = "2024"
+authors = ["Emil Sadek"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+[dependencies]
