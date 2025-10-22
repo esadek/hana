@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2024"
 authors = ["Emil Sadek"]
 license = "MIT OR Apache-2.0"
+description = "Data transformation tool"
 readme = "README.md"
+homepage = "https://github.com/esadek/hana"
+repository = "https://github.com/esadek/hana"
 
 [dependencies]
